@@ -2,6 +2,7 @@
 
 Structured tests of tools I'm considering, each ending in a one-page verdict.
 [AGENTS.md](AGENTS.md) has the procedure and [template/](template/) the files.
+Finished trials are archived in `~/best/archive/` as `<date>-<name>`.
 
 | Trial | Question | Verdict | Date |
 |---|---|---|---|

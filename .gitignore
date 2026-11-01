@@ -1,11 +1,3 @@
-# Trials that predate this repository keep their own repositories.
-/2026-09-agent-browser-rules/
-/2026-09-gdoc-structure-explorer/
-/2026-09-replicate-prompt-comparison/
-/2026-09-workspace-tools-comparison/
-/2026-09-writing-instructions-test/
-/2026-10-google-docs-agent-tools/
-
 # Inputs and outputs from real documents or accounts.
 private/
 .env
